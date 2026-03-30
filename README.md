@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Melsia-max
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on developers.
+- 👀 I’m interested in Writing.
+- 💞️ I’m looking to collaborate on Technical Writers and Developers.
 - 📫 How to reach me - mels.sam4@outlook.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: Techie, Writer, Wanderer
